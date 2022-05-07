@@ -52,10 +52,7 @@ Project created by <a href="www.linkedin.com/in/inuka-tech">Inuka Sanjula</a> to
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ALPHA-OFFICIAL-TEAM&show_icons=true&theme=dark&locale=en" alt="ALPHA-OFFICIAL-TEAM /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ALPHA-OFFICIAL-TEAM&theme=dark" alt="RIPPER-SER" /></p>
-</p>
 
 ##
   <h3 align="center">📢 Support Group :</h3>
