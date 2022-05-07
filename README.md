@@ -58,16 +58,20 @@ Project created by <a href="www.linkedin.com/in/inuka-tech">Inuka Sanjula</a> to
 </p>
 
 ##
-  <h3 align="center">📢 Inuka Tech :</h3>
+  <h3 align="center">📢 Support Group :</h3>
 <p align="center">
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/B6mOEjgfe4wAqn9UAuLmQp" target="blank"><img align="center" 
+  <a href="https://chat.whatsapp.com/B6mOEjgfe4wAqn9UAuLmQp" target="blank"><img align="center" src="https://i1.wp.com/tamilcininews.com/wp-content/uploads/2020/11/PngJoy_click-here-button-chat-whatsapp-button-transparent-png_4151107-1.png" /></a>
+</p>
 
+##
   <h3 align="center">📢 Inuka Tech Youtube Channel:</h3>
 <p align="center">
 Click YT logo to View Our Channel 👇 Subscibe and like for more videos
     <br>
 <br>
-  <a href="https://www.youtube.com/channel/UCu-O9_Z543b8pM1_aDJyVbA" target="blank"><img align="center" 
+  <a href="https://www.youtube.com/channel/UCu-O9_Z543b8pM1_aDJyVbA" target="blank"><img align="center" src="https://image.similarpng.com/thumbnail/2020/11/A-hand-mouse-cursor-clicks-on-the-subscribe-button-to-track-video-content-on-transparent-background-PNG-1.png" /></a>
+</p>
+
